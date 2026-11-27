@@ -1,3 +1,7 @@
+<img width="970" height="1030" alt="Screenshot_2026-11-27_025141" src="https://github.com/user-attachments/assets/87ae1314-7ecf-4393-8e28-25f40085cc6a" />
+<img width="582" height="613" alt="Screenshot_2026-11-27_015840" src="https://github.com/user-attachments/assets/09a88af5-9be5-4ad1-a45c-8c67a32a8206" />
+
+
 # Maya-on-AMD
 
 Project Maya's GLM-5.3-Flash (321B MoE, about 18B active) running on a single AMD RX 6800 under Windows - the hardware square their own docs leave unvalidated - packaged as a one-press app.
