@@ -52,6 +52,7 @@ The rate is fetch-bound, not compute-bound: every token pulls experts from RAM a
 
 - Press **Start-Maya.cmd**: if Maya is already up it just opens the window; if not, it starts the engine hidden, waits for it to answer, then opens one app window. No console windows.
 - Press **Stop-Maya.cmd** to stop the engine. Closing the window alone does not stop it.
+- Desktop app: run **MAKE-DESKTOP-APP.cmd** once (it needs maya-app.ico beside it) and Maya sits on the Desktop wearing the M. Pressing it is pressing Start-Maya.cmd.
 - Folder icon: drop maya-app.ico beside MAKE-FOLDER-ICON.cmd and run it - the folder wears the M. (The icon file is added to this repo by hand; the push road used here carries text only.)
 
 ## Notes
